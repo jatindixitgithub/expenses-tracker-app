@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body {
+    background-image: url('https://thumbs.dreamstime.com/z/wooden-texture-brown-wood-background-grunge-oak-board-51726440.jpg?w=992');
+    background-size: cover;
+    background-position: start;
+}
+#main {
+    height: 35%;
+    width: 70%;
+    background-image: url('https://thumbs.dreamstime.com/z/white-marble-texture-natural-pattern-background-luxury-white-marble-texture-background-decorative-design-101982591.jpg?w=992');
+    background-size: cover;
+    background-position: center;
+}
+#heading {
+    color: blueviolet;
+    font-size: 30px;
+}
